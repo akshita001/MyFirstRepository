@@ -1,2 +1,3 @@
 # MyFirstRepository
-To Test my first repository
+
+This contains my initial learning of Programming Concepts.
