@@ -4,7 +4,11 @@ This contains my initial learning of Programming Concepts.
 
 ## Python Programming Basics
 
-Look at my 1st Python Programming tricks [here](/Python_Basics_1.ipynb)
+Below is a content representation of my Pythoon files.
+
+FileName | Reference in this Repo | Remarks
+---------|------------------------|---------
+Python_Basics_1.ipynb | [Python_1st_file](/Python_Basics_1.ipynb) | My 1st Pythpn program file containing basics
 
 
 ## Writeup Themes and Speak-a-minute jam
