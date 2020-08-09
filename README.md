@@ -8,8 +8,8 @@ Below is a content representation of my Pythoon files.
 
 FileName | Reference in this Repo | Remarks
 ---------|------------------------|---------
-Python_Basics_1.ipynb | [Python_1st_file](/Python_Basics_1.ipynb) | My 1st Pythpn program file containing basics
-
+Python_Basics_1.ipynb | [Python_1st_file](/Python_Basics_1.ipynb) | My 1st Python program file containing basics
+Python_Basics_2.ipynb | [Python_2nd_file](/Python_Basics_2.ipynb) | My 2nd Python program using NumPy
 
 ## Writeup Themes and Speak-a-minute jam
 
