@@ -10,6 +10,7 @@ FileName | Reference in this Repo | Remarks
 ---------|------------------------|---------
 Python_Basics_1.ipynb | [Python_1st_file](/Python_Basics_1.ipynb) | My 1st Python program file containing basics
 Python_Basics_2.ipynb | [Python_2nd_file](/Python_Basics_2.ipynb) | My 2nd Python program using NumPy
+Python_Basics_3.ipynb | [Python_3rd_file](/Python_Basics_3.ipynb) | Working with variables, string computations, random etc.
 
 ## Writeup Themes and Speak-a-minute jam
 
