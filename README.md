@@ -12,6 +12,8 @@ Python_Basics_1.ipynb | [Python_1st_file](/Python_Basics_1.ipynb) | My 1st Pytho
 Python_Basics_2.ipynb | [Python_2nd_file](/Python_Basics_2.ipynb) | My 2nd Python program using NumPy
 Python_Basics_3.ipynb | [Python_3rd_file](/Python_Basics_3.ipynb) | Working with variables, string computations, random etc.
 Python_StringOperations.ipynb | [Python_String_Operations](/Python_StringOperations.ipynb) | Working with basic string operations
+PythonLoopingTest.ipynb | [Loops Testing using Python](/PythonLoopingTest.ipynb.ipynb) | Working with basic loops
+
 
 ## Writeup Themes and Speak-a-minute jam
 
